@@ -25,8 +25,8 @@
 
 ### 🚀 Cosmic Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suchetkumbar&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suchetkumbar&theme=tokyonight" height="150"/>
 </p>
 
 ---
