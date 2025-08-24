@@ -40,10 +40,10 @@
 
 ### 🌌 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://linkedin.com/in/suchetkumbar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOURMAIL@gmail.com">
+  <a href="mailto:suchetkumbar@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
