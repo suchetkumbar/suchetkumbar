@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/NmY8PJq/stars-galaxy.gif" alt="Starry Banner" width="100%">
+</p>
 
-<!--
-**suchetkumbar/suchetkumbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">✨ Hi, I'm Suchet ✨</h1>
+<p align="center">🌌 Aspiring Robotics & ML Engineer | 🚀 Cloud & Web Developer | 🛰️ IoT Explorer</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌠 About Me
+- 🎓 3rd Year B.Tech at VIT Chennai  
+- 🤖 Building AI + Robotics projects  
+- ☁️ Learning AWS & Cloud Engineering  
+- 💡 Currently working on ML and DL
+
+---
+
+### 🌌 Tech Galaxy
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,react,aws,arduino,firebase,html,css,js" />
+</p>
+
+---
+
+### 🚀 Cosmic Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🌌 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOURMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
