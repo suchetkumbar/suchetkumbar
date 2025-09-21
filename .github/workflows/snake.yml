@@ -6,20 +6,19 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # crucial for pushing to the output branch
+  contents: write
 
 jobs:
   generate:
-    name: Generate Snake Animation
+    name: Generate Cosmic Snake
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: suchetkumbar
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-light.svg?palette=github-light
+            dist/github-snake.svg?palette=github-dark&color_snake=#ffcc00&color_dots=#0f0f0f,#1f1f1f,#3f3f3f,#5f5f5f,#7f7f7f
+            dist/github-snake.gif?color_snake=#ffcc00&color_dots=#0f0f0f,#1f1f1f,#3f3f3f,#5f5f5f,#7f7f7f
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
