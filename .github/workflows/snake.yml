@@ -1,4 +1,4 @@
-name: 🌌 Generate Cosmic Snake
+name: 🌌 Generate Cosmic Snake & Telemetry
 
 on:
   schedule:
@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - .github/workflows/snake.yml
+      - .github/scripts/**
 
 permissions:
   contents: write
@@ -22,6 +23,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Checkout (for the stats script)
+        uses: actions/checkout@v4
+        with:
+          path: src
+
+      - name: Generate cosmic telemetry card
+        continue-on-error: true # never block the snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 src/.github/scripts/cosmic_stats.py "${{ github.repository_owner }}" dist/cosmic-stats.svg
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -35,6 +47,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🌌 Update cosmic snake"
+          commit_message: "🌌 Update cosmic snake & telemetry"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

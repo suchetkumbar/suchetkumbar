@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-10002b?style=for-the-badge&logo=vercel&logoColor=e0aaff)](https://suchetportfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-10002b?style=for-the-badge&logo=linkedin&logoColor=e0aaff)](https://linkedin.com/in/suchetkumbar)
 [![Email](https://img.shields.io/badge/Email-10002b?style=for-the-badge&logo=gmail&logoColor=e0aaff)](mailto:suchetkumbar@gmail.com)
-[![Visitors](https://visitcount.itsvg.in/api?id=suchetkumbar&label=Observers&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Observers](https://komarev.com/ghpvc/?username=suchetkumbar&label=OBSERVERS&color=7b2cbf&style=for-the-badge)
 
 </div>
 
@@ -120,12 +120,9 @@ I build at the intersection of **robotics, machine learning, and full-stack deve
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suchetkumbar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e0aaff&icon_color=c77dff&text_color=c9d1d9&ring_color=9d4edd" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchetkumbar&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=e0aaff&text_color=c9d1d9" />
+<img width="100%" alt="GitHub telemetry" src="https://raw.githubusercontent.com/suchetkumbar/suchetkumbar/output/cosmic-stats.svg" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=suchetkumbar&hide_border=true&background=0d1117&ring=9d4edd&fire=ffd166&currStreakNum=e0aaff&sideNums=e0aaff&currStreakLabel=c77dff&sideLabels=c77dff&dates=8b949e&stroke=3c096c" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=suchetkumbar&bg_color=0d1117&color=c77dff&line=9d4edd&point=ffd166&area=true&area_color=5a189a&hide_border=true&title_color=e0aaff&custom_title=Orbital%20Activity" />
+<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=suchetkumbar&hide_border=true&background=0d1117&ring=9d4edd&fire=ffd166&currStreakNum=e0aaff&sideNums=e0aaff&currStreakLabel=c77dff&sideLabels=c77dff&dates=8b949e&stroke=3c096c" />
 
 </div>
 
@@ -135,7 +132,7 @@ I build at the intersection of **robotics, machine learning, and full-stack deve
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=suchetkumbar&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img alt="Trophies" src="https://github-trophies.vercel.app/?username=suchetkumbar&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
